@@ -15,6 +15,7 @@
         <div class="flex-fill">
           <select id="dist" class="form-control">
             <!-- 製作下拉選單 -->
+            <option value="">請選擇地區</option>
             <option value="中正區">中正區</option>
           </select>
          </div>
